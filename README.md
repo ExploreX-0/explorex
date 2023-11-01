@@ -59,9 +59,9 @@ function Swap() {
       callValue: "100000",
     });
 
-    GetHash(
-      tx,
-      "Enter connected chain" // Mainnet, Shasta, Nile
+  GetHash(
+    tx,
+    "Enter connected chain" // Mainnet, Shasta, Nile
     );
   };
 
